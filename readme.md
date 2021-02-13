@@ -63,6 +63,7 @@ Kita dapat membuka aplikasi web terlebih dahulu menggunakan editor kesayangan ki
 ## Menjalankan
 
 -   Untuk menjalankan aplikasi web ini, cukup membuka _browser_ dan ketikkan url `http://localhost/pinjam-buku-ci/` atau sesuaikan dengan tempat menyimpan aplikasi web ini. Pastikan _web server_ dan _database management system_ telah diaktifkan.
+-	Masukkan `admin` sebagai username dan password
 
 ## Demonstrasi dan Tangkapan Layar
 
