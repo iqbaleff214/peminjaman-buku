@@ -64,6 +64,24 @@ Kita dapat membuka aplikasi web terlebih dahulu menggunakan editor kesayangan ki
 
 -   Untuk menjalankan aplikasi web ini, cukup membuka _browser_ dan ketikkan url `http://localhost/pinjam-buku-ci/` atau sesuaikan dengan tempat menyimpan aplikasi web ini. Pastikan _web server_ dan _database management system_ telah diaktifkan.
 
+## Tangkapan Layar
+
+- 	Halaman login
+	 ![Halaman Login](http://drive.google.com/uc?export=view&id=1mW9M6SACYTmLdhWMadtIJ4Rtag3crifP)
+- 	Halaman Dashboard
+	 ![Halaman Dashboard](http://drive.google.com/uc?export=view&id=1UQ1JrmaFXV1pDbIRnXKAiLcL2cFLvpsV)
+
+- 	Halaman Anggota
+	 ![Halaman Anggota](http://drive.google.com/uc?export=view&id=12Tqyasax4KuI5ZoOhi6MktzdVp4wA33w)
+	 ![Halaman Anggota](http://drive.google.com/uc?export=view&id=1fCHZYivYjh1kIGi-w0AkH5OhXS7xWX6Y)
+
+- 	Halaman Buku
+	 ![Halaman Buku](http://drive.google.com/uc?export=view&id=1Uvie7UTj_W2IThpL6lWRBim5Jcq3dMwn)
+	 ![Halaman Buku](http://drive.google.com/uc?export=view&id=1WPDahuhNJv3rnn0819OcnMb060nk3pnx)
+
+- 	Halaman Laporan
+	 ![Halaman Laporan](http://drive.google.com/uc?export=view&id=1o2_7-dyKnY2gkEYaf5O2ztFq27Tk1-RI)
+
 ## Penutup
 
 _Alhamdulillah_, aplikasi web ini tentunya memiliki banyak kekurangan dan masih bisa ditingkatkan lagi. Harapannya aplikasi web ini dapat menjadi bahan referensi dan dikembangkan menjadi lebih baik kedepannya.
