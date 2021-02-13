@@ -75,11 +75,12 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => getenv('DB_HOST'),
-	'username' => getenv('DB_USER'),
-	'password' => getenv('DB_PASS'),
-	'database' => getenv('DB_NAME'),
-	'dbdriver' => getenv('DB_DRIVER'),
+	'hostname' => 'ec2-54-225-190-241.compute-1.amazonaws.com', //getenv('DB_HOST'),
+	'username' => 'mthhfkplrrciea', //getenv('DB_USER'),
+	'password' => '6a41fd878c730defe75da527e793e0485717ad3ba0cce1871181ed3e887b5279', //getenv('DB_PASS'),
+	'database' => 'dgs4dkom6bo42', //getenv('DB_NAME'),
+	'dbdriver' => 'postgre', //getenv('DB_DRIVER'),
+	'port' => '5432', // getenv('DB_PORT'),
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
@@ -93,5 +94,4 @@ $db['default'] = array(
 	'stricton' => FALSE,
 	'failover' => array(),
 	'save_queries' => TRUE,
-	'port' => getenv('DB_PORT')
 );
